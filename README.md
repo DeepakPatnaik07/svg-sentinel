@@ -1,9 +1,3 @@
-Absolutely — here’s the full README.md content ready to copy-paste directly into your file.
-
-⸻
-
-
-
 # 🛡️ SVG Sentinel
 
 **Static SVG Malware Scanner for Security Analysts and Engineers**
