@@ -106,11 +106,3 @@ MSc Cyber Security @ Lancaster University
 📜 License
 
 MIT License – use, modify, and break things freely.
-
----
-
-✅ Paste this in your `README.md` file  
-✅ Replace your LinkedIn/email  
-✅ Then commit and push to GitHub
-
-Let me know when it’s up — I’ll help you write a clean LinkedIn post to announce it.
