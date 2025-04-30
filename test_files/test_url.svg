@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url("http://malicious.site/bad.css");
+    .phish { background-image: url("http://evil.site/trap.png"); }
+  </style>
+</svg>

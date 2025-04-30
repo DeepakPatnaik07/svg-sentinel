@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    var x = "\u0061\u006c\u0065\u0072\u0074";  // alert
+    eval(x);
+  </script>
+  <circle onclick="String.fromCharCode(97,108,101,114,116)(1)"/>
+</svg>
